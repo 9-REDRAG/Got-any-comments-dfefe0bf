@@ -6,9 +6,12 @@
 border-radius: 10% / 50%;
 }
 #inEmail {
-  width: 300px
+  width: 300px;
 }
 
 #opmer {
   border: solid red;
+}
+#opmer:focus {
+  border: solid green;
 }
